@@ -1,0 +1,12 @@
+{
+  "type": "module",
+  "engines": {
+    "node": "12.x"
+  },
+  "dependencies": {
+    "@notionhq/client": "^0.2.1",
+    "dotenv": "^10.0.0",
+    "googleapis": "^81.0.0",
+    "node-fetch": "^2.6.1"
+  }
+}
